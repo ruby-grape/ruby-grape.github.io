@@ -1,0 +1,40 @@
+title: Ruby Grape | An opinionated micro-framework for creating REST-like APIs in Ruby.
+locale: en_US
+url: # https://ruby-grape.github.io
+markdown: kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+kramdown:
+  input: GFM
+owner:
+  name: Ruby Grape
+  avatar: logo.png
+  bio: ""
+  email: ruby-grape@googlegroups.com
+  disqus-shortname:
+  twitter:
+  facebook:
+  google:
+    plus:
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: ruby-grape
+  stackoverflow:
+  linkedin:
+  instagram:
+  lastfm:
+  tumblr:
+  pinterest:
+  foursquare:
+  steam:
+  dribbble:
+  youtube:
+  soundcloud:
+paginate: 30

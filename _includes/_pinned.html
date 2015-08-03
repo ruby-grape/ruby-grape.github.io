@@ -1,0 +1,12 @@
+<div id="index">
+  <h3>Pinned</h3>
+  {% for post in site.posts %}
+    {% if post.pinned %}
+      <article>
+        <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+      </article>
+    {% endif %}
+  {% endfor %}
+</div>
+
+
