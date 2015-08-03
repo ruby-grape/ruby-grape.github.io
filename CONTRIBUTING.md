@@ -34,9 +34,9 @@ bundle exec jekyll serve
 
 Navigate to http://localhost:4000.
 
-#### Write Posts
+#### Add Content
 
-Write posts in [_posts](_posts).
+Create markdown content.
 
 #### Commit Changes
 

@@ -13,7 +13,7 @@ kramdown:
 owner:
   name: Ruby Grape
   avatar: logo.png
-  bio: ""
+  info: ""
   email: ruby-grape@googlegroups.com
   disqus-shortname:
   twitter:

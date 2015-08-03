@@ -350,7 +350,7 @@ $button-size: 1.5rem;
 }
 .article-author-side {
 	display: none;
-	.bio-photo {
+	.info-photo {
 		max-width: 110px;
 	}
 	@media #{$small} {
@@ -377,7 +377,7 @@ $button-size: 1.5rem;
 	}
 	@media #{$large} {
 		h3,
-		.bio-photo,
+		.info-photo,
 		p,
 		.author-social {
 			max-width: 150px;
@@ -393,7 +393,7 @@ $button-size: 1.5rem;
 	@media #{$small} {
 		display: none;
 	}
-	.bio-photo {
+	.info-photo {
 		float: left;
 		margin-right: 25px;
 		max-width: 100px;
@@ -404,7 +404,7 @@ $button-size: 1.5rem;
 	}
 	@media #{$large} {
 		h3,
-		.bio-photo,
+		.info-photo,
 		p,
 		.author-social {
 			max-width: 150px;

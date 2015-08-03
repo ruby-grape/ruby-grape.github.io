@@ -3,59 +3,11 @@ layout: default
 comments: false
 ---
 
-{% for post in paginator.posts %}
-  {% unless post.pinned %}
-    {% unless post.next %}
-      <h3>{{ post.date | date: '%Y' }}</h3>
-    {% else %}
-      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-      {% if year != nyear %}
-        <h3 class='next'>{{ post.date | date: '%Y' }}</h3>
-      {% endif %}
-    {% endunless %}
+<h3><a href='projects/'>Ruby Grape Projects</a></h3>
+<p>A collection of projects related to Ruby Grape.</p>
 
-    <article>
-      {% if post.link %}
-        <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
-      {% else %}
-        <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-      {% endif %}
-    </article>
-  {% endunless %}
-{% endfor %}
+<h3><a href='team/'>Ruby Grape Team</a></h3>
+<p>Who maintains Ruby Grape?</p>
 
-<div class="pagination">
-  {% if paginator.previous_page %}
-    {% if paginator.previous_page == 1 %}
-      <a href="{{ site.url }}" class="btn">Previous</a>
-    {% else %}
-      <a href="{{ site.url }}/page{{ paginator.previous_page }}" class="btn">Previous</a>
-    {% endif %}
-  {% else %}
-    Previous
-  {% endif %}
-  <ul class="inline-list">
-    <li>
-      {% if paginator.page == 1 %}
-        <span class="current-page">1</span>
-      {% else %}
-        <a href="{{ site.url }}/">1</a>
-      {% endif %}
-    </li>
-    {% for count in (2..paginator.total_pages) %}
-      <li>
-        {% if count == paginator.page %}
-          <span class="current-page">{{ count }}</span>
-        {% else %}
-          <a href="{{ site.url }}/page{{ count }}">{{ count }}</a>
-        {% endif %}
-      </li>
-    {% endfor %}
-  </ul>
-  {% if paginator.next_page %}
-    <a href="{{ site.url }}/page{{ paginator.next_page }}" class="btn">Next</a>
-  {% else %}
-    Next
-  {% endif %}
-</div><!-- /.pagination -->
+<h3><a target='_blank' href='https://groups.google.com/forum/#!forum/ruby-grape'>Need Help? Have an idea?</a></h3>
+<p>Please <a target='_blank' href='https://groups.google.com/forum/#!forum/ruby-grape'>join the ruby-grape Google group</a>.</p>
