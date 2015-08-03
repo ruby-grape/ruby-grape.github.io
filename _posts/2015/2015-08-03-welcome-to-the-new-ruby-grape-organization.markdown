@@ -24,7 +24,7 @@ The first two member projects are [grape](https://github.com/ruby-grape/grape) i
 
 The new ruby-grape is owned by the community and is built around rough concensus and working code.
 
-The organization will be grown with an increasing number of maintainers, including some promoted to organizational admin level. We begin by welcoming [Daniel Doubrovkine, @dblock](https://github.com/dblock) (currently serving as CTO at [Artsy.net](https://www.artsy.net) in New York City) and [Michael Bleigh, @mbleigh](https://github.com/mbleigh), CEO of [DivShot](https://divshot.com) as organizational admins.
+The organization will be grown with an increasing number of maintainers, including some promoted to organizational admin level. We begin by welcoming [Daniel Doubrovkine, @dblock](https://github.com/dblock) (currently serving as CTO at [Artsy.net](https://www.artsy.net)) and [Michael Bleigh, @mbleigh](https://github.com/mbleigh), CEO of [DivShot](https://divshot.com) as organizational admins.
 
 ### This Site
 
