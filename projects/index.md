@@ -78,6 +78,7 @@ comments: false
 
 * [grape-scaffold](https://github.com/icicletech/grape-scaffold): An API scaffold generator for Rails.
 * [grape-api-generator](https://github.com/vinh0604/grape-api-generator): Some rails generators to help quickly bootstrap new Grape API structure.
+* [gris](https://github.com/artsy/gris): A framework (and generators) for building [hal+json hypermedia](http://stateless.co/hal_specification.html) API services using Rack, Grape, Roar, RSpec, and ActiveRecord.
 
 ### Opinionated Frameworks
 
