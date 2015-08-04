@@ -6,8 +6,17 @@ comments: false
 [Community Projects](/projects)
 Grape ecosystem projects.
 
+[Resources](/resources)
+Useful resources.
+
+[Examples](/examples)
+Working projects using Grape.
+
+[Users](/users)
+Who uses Grape?
+
 [History and Team](/team)
-Who maintains Ruby Grape?
+Who maintains Grape?
 
 [Want to help?](https://github.com/ruby-grape/ruby-grape.github.io/issues)
 A number of non-code, community-related work-items you can help with.
