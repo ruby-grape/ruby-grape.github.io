@@ -19,7 +19,9 @@
     {% include _search.html %}
   </div>
   <article class="page">
-    <h3><a href='/'>&lt; Home</a> | {{ page.title }}</h3>
+    <div class="crumbs">
+      <a href='/'>&lt; Home</a> | {{ page.title }}
+    </div>
     <div class="article-wrap">
       {{ content }}
     </div><!-- /.article-wrap -->
