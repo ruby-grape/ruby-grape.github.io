@@ -20,3 +20,4 @@ Grape was created by [Michael Bleigh](https://github.com/mbleigh) at [Intridea](
 #### [grape-entity](https://github.com/ruby-grape/grape-entity)
 
 * [Vladimir Kochnev, @marshall-lee](https://github.com/marshall-lee): Saint Petersburg, Russia.
+* [Mark Madsen, @idyll](https://github.com/idyll): The Great White North.
