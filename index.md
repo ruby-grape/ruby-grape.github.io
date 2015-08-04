@@ -3,7 +3,7 @@ layout: default
 comments: false
 ---
 
-[Ruby Grape Projects](/projects)
+[Community Projects](/projects)
 Grape ecosystem projects.
 
 [History and Team](/team)

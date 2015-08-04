@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Community Projects
 tags: [projects]
 comments: false
 ---
@@ -61,3 +61,5 @@ comments: false
 ### Contribute
 
 Please [contribute a project](https://github.com/ruby-grape/ruby-grape.github.io/blob/master/CONTRIBUTING.md) to [this page](https://github.com/ruby-grape/ruby-grape.github.io/blob/master/projects/index.md).
+
+We encourage you to develop and support your Grape ecosystem project, expand its maintainers and help a community thrive. Some projects do become quite popular and you might want to donate them to the community at large. If you want to move a project to the [ruby-grape Github organization](https://github.com/ruby-grape) please make a succinct proposal on [the mailing list](https://groups.google.com/forum/#!forum/ruby-grape). A member of the [core team](/team) will make the call.
