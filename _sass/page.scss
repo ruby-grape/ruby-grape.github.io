@@ -10,6 +10,18 @@ body {
 	font-weight: 700;
 	text-transform: uppercase;
 	@include clearfix;
+	@media #{$micro} {
+		display: block;
+	}
+	@media #{$small} {
+		display: none;
+	}
+	@media #{$large} {
+		display: none;
+	}
+	@media #{$x-large} {
+		display: none;
+	}
 }
 .site-name {
 	@include grid(12,10);
