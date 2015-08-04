@@ -6,7 +6,7 @@ comments: false
 [Ruby Grape Projects](/projects)
 Grape ecosystem projects.
 
-[Team and History](/team)
+[History and Team](/team)
 Who maintains Ruby Grape?
 
 [Want to help?](https://github.com/ruby-grape/ruby-grape.github.io/issues)
