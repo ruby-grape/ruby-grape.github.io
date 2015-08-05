@@ -36,6 +36,7 @@ comments: false
 
 * [grape-cors](https://github.com/adamluzsi/grape-cors): Ruby Grape Api extension with Cross-origin resource sharing.
 * [grape-throttle](https://github.com/xevix/grape-throttle): Provides a simple endpoint-specific throttling mechanism.
+* [grape-batch](https://github.com/c4mprod/grape-batch): Rack middleware which extends Grape::API to support request batching.
 
 ### Routing
 
