@@ -84,6 +84,7 @@ comments: false
 ### Opinionated Frameworks
 
 * [grape_ape_rails](https://github.com/mepatterson/grape_ape_rails): Wrap the various best practices of integrating your API within the context of a Rails app.
+* [napa](https://github.com/bellycard/napa): A simple framework for building Rack based APIs using Grape, Roar and ActiveRecord to feel similar to what you would expect from a Rails app.
 
 ### Contribute
 
