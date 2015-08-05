@@ -1,7 +1,7 @@
 Contributing
 ============
 
-The https://ruby-grape.github.io site is work of [many contributors](https://github.com/ruby-grape/ruby-grape.github.io/graphs/contributors). You're encouraged to submit [pull requests](https://github.com/ruby-grape/ruby-grape.github.io/pulls) and [propose topics](https://github.com/ruby-grape/ruby-grape.github.io/issues). When in doubt, ask a question in the [Grape Google Group](http://groups.google.com/group/ruby-grape).
+The http://www.ruby-grape.org site is work of [many contributors](https://github.com/ruby-grape/ruby-grape.github.io/graphs/contributors). You're encouraged to submit [pull requests](https://github.com/ruby-grape/ruby-grape.github.io/pulls) and [propose topics](https://github.com/ruby-grape/ruby-grape.github.io/issues). When in doubt, ask a question in the [Grape Google Group](http://groups.google.com/group/ruby-grape).
 
 #### Fork the Project
 

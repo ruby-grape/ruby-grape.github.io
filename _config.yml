@@ -2,7 +2,7 @@ title:
   long: Ruby Grape | An opinionated micro-framework for creating REST-like APIs in Ruby.
   short: Ruby Grape
 locale: en_US
-url: # https://ruby-grape.github.io
+url: # http://www.ruby-grape.org
 markdown: kramdown
 highlighter: pygments
 sass:
