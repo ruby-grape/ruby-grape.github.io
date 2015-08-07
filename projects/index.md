@@ -86,6 +86,7 @@ comments: false
 
 * [grape_ape_rails](https://github.com/mepatterson/grape_ape_rails): Wrap the various best practices of integrating your API within the context of a Rails app.
 * [napa](https://github.com/bellycard/napa): A simple framework for building Rack based APIs using Grape, Roar and ActiveRecord to feel similar to what you would expect from a Rails app.
+* [grape-transformations](https://github.com/codescrum/grape-transformations): A gem that works with Rails and Grape to organize and make possible the use of multiple Grape entities per model, while at the same time, decoupling them from your models.
 
 ### Contribute
 
