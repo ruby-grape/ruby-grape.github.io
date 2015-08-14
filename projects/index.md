@@ -67,6 +67,7 @@ comments: false
 * [grape-librato](https://github.com/seanmoon/grape-librato): Librato metrics.
 * [grape-appsignal](https://github.com/aai/grape-appsignal): Integration with AppSignal.
 * [grape-oink](https://github.com/xevix/grape-oink): Identify routes which significantly increase VM heap size using [oink parser](https://github.com/noahd1/oink).
+* [skylight](https://github.com/skylightio/skylight-ruby): Integration with Skylight, [documentation](https://docs.skylight.io/grape).
 
 ### Development
 
