@@ -22,6 +22,15 @@ Grape was created by [Michael Bleigh](https://github.com/mbleigh) at [Intridea](
 * [Vladimir Kochnev, @marshall-lee](https://github.com/marshall-lee): Saint Petersburg, Russia.
 * [Mark Madsen, @idyll](https://github.com/idyll): The Great White North.
 
+#### [grape-swagger](https://github.com/ruby-grape/grape-swagger)
+
+* [Tim Vandecasteele, @tim-vandecasteele](https://github.com/tim-vandecasteele): Gent, Belgium.
+* [Craig S. Cottingham, @CraigCottingham](https://github.com/CraigCottingham): Olathe, Kansas, USA.
+
+#### [grape-swagger-rails](https://github.com/ruby-grape/grape-swagger-rails)
+
+* [Alexander Logunov, @unloved](https://github.com/unloved): Cheboksary, Russia.
+
 ### Participating in the Grape Community
 
 We welcome all contributors to the Grape ecosystem, built upon rough consensus and running code, a principle described in the [Tao of IETF](https://www.ietf.org/tao.html). We are highly inclusive, try to be nice and helpful to both experienced and new developers. We encourage you to participate and to be pragmatic. To quote David Clark, _"We reject kings, presidents and voting"_, and Jon Postel, _"Be conservative in what you send and liberal in what you accept."_
