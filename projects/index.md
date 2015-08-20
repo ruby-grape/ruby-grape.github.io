@@ -13,7 +13,8 @@ comments: false
 ### Entities and Representers
 
 * [grape-entity](https://github.com/ruby-grape/grape-entity): An API focused facade that sits on top of an object model.
-* [grape-rabl](https://github.com/LTe/grape-rabl): Use Rabl templates.
+* [grape-rabl](https://github.com/ruby-grape/grape-rabl): Use Rabl templates.
+* [grape-roar](https://github.com/ruby-grape/grape-roar): Use Roar with Grape.
 * [grape-active_model_serializers](https://github.com/jrhe/grape-active_model_serializers): User active_model_serializers.
 * [grape-msgpack](https://github.com/rosylilly/grape-msgpack): Message pack formatter.
 * [grape-resources](https://github.com/wawandco/grape-resources) Extension that allows to scaffold easily models that could not contain much logic.

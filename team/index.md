@@ -31,6 +31,10 @@ Grape was created by [Michael Bleigh](https://github.com/mbleigh) at [Intridea](
 
 * [Alexander Logunov, @unloved](https://github.com/unloved): Cheboksary, Russia.
 
+#### [grape-rabl](https://github.com/ruby-grape/grape-rabl)
+
+* [Piotr Niełacny, @LTe](https://github.com/LTe): Wrocław, Poland.
+
 ### Participating in the Grape Community
 
 We welcome all contributors to the Grape ecosystem, built upon rough consensus and running code, a principle described in the [Tao of IETF](https://www.ietf.org/tao.html). We are highly inclusive, try to be nice and helpful to both experienced and new developers. We encourage you to participate and to be pragmatic. To quote David Clark, _"We reject kings, presidents and voting"_, and Jon Postel, _"Be conservative in what you send and liberal in what you accept."_
