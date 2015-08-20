@@ -54,6 +54,7 @@ comments: false
 * [grape-doorkeeper](https://github.com/fuCtor/grape-doorkeeper): Grape integration with Doorkeeper.
 * [grape_api_signature](https://github.com/faber-lotto/grape_api_signature): A RACK-Based AWS Style signature authentication for grape API.
 * [wine_bouncer](https://github.com/antek-drzewiecki/wine_bouncer): Doorkeeper OAuth2 authorization middleware for grape APIs.
+* [grape-tokeeo](https://github.com/wawandco/grape-tokeeo): A simple token authentication gem for Grape.
 
 ### Documentation
 
