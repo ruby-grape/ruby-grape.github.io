@@ -8,8 +8,8 @@ The http://www.ruby-grape.org site is work of [many contributors](https://github
 Fork the [project on Github](https://github.com/ruby-grape/ruby-grape.github.io) and check out your copy.
 
 ```
-git clone https://github.com/contributor/grape.git
-cd grape
+git clone https://github.com/contributor/ruby-grape.github.io.git
+cd ruby-grape.github.io
 git remote add upstream https://github.com/ruby-grape/ruby-grape.github.io.git
 ```
 
