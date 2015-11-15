@@ -19,6 +19,7 @@ Grape was created by [Michael Bleigh](https://github.com/mbleigh) at [Intridea](
 
 * [Dmitry Dedov, @dm1try](https://github.com/dm1try): Minsk, Belarus.
 * [Adam Gotterer, @adamgotterer](https://github.com/adamgotterer): New York, USA.
+* [Vladimir Kochnev, @marshall-lee](https://github.com/marshall-lee): Saint Petersburg, Russia.
 
 #### [grape-entity](https://github.com/ruby-grape/grape-entity)
 
