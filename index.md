@@ -15,11 +15,8 @@ Working projects using Grape.
 [Users](/users)
 Who uses Grape?
 
-[History and Team](/team)
-Who maintains Grape?
-
-[Want to help?](https://github.com/ruby-grape/ruby-grape.github.io/issues)
-A number of non-code, community-related work-items you can help with.
+[History, Team and Contributing](/team)
+Who maintains Grape? How can I contribute?
 
 [Need help?](https://groups.google.com/forum/#!forum/ruby-grape)
 Please join and use the ruby-grape Google group for all questions.

@@ -43,6 +43,8 @@ Grape was created by [Michael Bleigh](https://github.com/mbleigh) at [Intridea](
 
 We welcome all contributors to the Grape ecosystem, built upon rough consensus and running code, a principle described in the [Tao of IETF](https://www.ietf.org/tao.html). We are highly inclusive, try to be nice and helpful to both experienced and new developers. We encourage you to participate and to be pragmatic. To quote David Clark, _"We reject kings, presidents and voting"_, and Jon Postel, _"Be conservative in what you send and liberal in what you accept."_
 
+We also have a [contributor code of conduct](/code_of_conduct).
+
 ### Becoming a Project Maintainer
 
 Team members from organizational maintainers down to individual project nominate individuals who have significantly contributed to the project to join the team. We recommend requiring a simple majority and no significant objections (also known as rough consensus) as a sufficient criteria for acceptance. A great first step in becoming a maintainer of any project could be making a release.
