@@ -64,6 +64,7 @@ comments: false
 * [grape-swagger-ui](https://github.com/kendrikat/grape-swagger-ui): Integrates swagger-ui with the Rails asset pipeline.
 * [grape-slate](https://github.com/connexio-labs/grape-slate): Allows for generating a Slate style for your API.
 * [grape-apiary](https://github.com/connexio-labs/grape-apiary): Generate an Apiary Blueprint for you Grape API.
+* [ruby-swagger](https://github.com/Gild/ruby-swagger): Generate documentation and client code for your Grape API.  Swagger 2.0 compliant.
 
 ### Monitoring, Performance & Instrumentation
 
