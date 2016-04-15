@@ -1,5 +1,5 @@
 title:
-  long: Ruby Grape | An opinionated micro-framework for creating REST-like APIs in Ruby.
+  long: Ruby Grape | An opinionated framework for creating REST-like APIs in Ruby.
   short: Ruby Grape
 locale: en_US
 sass:
@@ -12,7 +12,7 @@ kramdown:
 owner:
   name: Ruby Grape
   avatar: logo.png
-  info: An opinionated micro-framework for creating REST-like APIs in Ruby.
+  info: An opinionated framework for creating REST-like APIs in Ruby.
   email: ruby-grape@googlegroups.com
   disqus-shortname:
   twitter: grapeframework
