@@ -32,6 +32,7 @@ Grape was created by [Michael Bleigh](https://github.com/mbleigh) at [Intridea](
 * [Tim Vandecasteele, @tim-vandecasteele](https://github.com/tim-vandecasteele): Gent, Belgium.
 * [Craig S. Cottingham, @CraigCottingham](https://github.com/CraigCottingham): Olathe, Kansas, USA.
 * [Peter Scholz, @le_fnord](https://github.com/LeFnord): Leipzig, Germany.
+* [Kirill Zaitsev, @Bugagazavr](https://github.com/Bugagazavr): Moscow, Russia.
 
 #### [grape-swagger-rails](https://github.com/ruby-grape/grape-swagger-rails)
 
