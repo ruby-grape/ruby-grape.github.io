@@ -37,6 +37,7 @@ Grape was created by [Michael Bleigh](https://github.com/mbleigh) at [Intridea](
 #### [grape-swagger-rails](https://github.com/ruby-grape/grape-swagger-rails)
 
 * [Alexander Logunov, @unloved](https://github.com/unloved): Cheboksary, Russia.
+* [Andrew Schuster, @aschuster3](https://github.com/aschuster3): Atlanta, Georgia, USA.
 
 #### [grape-rabl](https://github.com/ruby-grape/grape-rabl)
 
