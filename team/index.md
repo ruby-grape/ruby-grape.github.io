@@ -43,6 +43,12 @@ Grape was created by [Michael Bleigh](https://github.com/mbleigh) at [Intridea](
 
 * [Piotr Niełacny, @LTe](https://github.com/LTe): Wrocław, Poland.
 
+#### [grape-active_model_serializers](https://github.com/ruby-grape/grape-active_model_serializers)
+
+* [Jonathan Evans, @jrhe](https://github.com/jrhe): London, UK.
+* [Teng Siong Ong, @siong1987](https://github.com/siong1987): San Francisco, USA.
+* [Darren Cheng, @drn](https://github.com/drn): San Francisco, USA.
+
 ### Participating in the Grape Community
 
 We welcome all contributors to the Grape ecosystem, built upon rough consensus and running code, a principle described in the [Tao of IETF](https://www.ietf.org/tao.html). We are highly inclusive, try to be nice and helpful to both experienced and new developers. We encourage you to participate and to be pragmatic. To quote David Clark, _"We reject kings, presidents and voting"_, and Jon Postel, _"Be conservative in what you send and liberal in what you accept."_
