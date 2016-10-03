@@ -16,6 +16,7 @@ There're thousands of companies using Grape, this page was started recently. The
 * [Meeteor](http://www.meeteor.com), Meeteor is a web app that helps you leverage your meetings to 
 drive productivity, build a healthy company culture, and achieve greater 
 results. Meeteor uses Grape API to support its mobile and android UIs + various other extensions like extensions for outlook, google calendar, hipchat, slack.
+* [GitLab](https://gitlab.com), GitLab is an open-core web application that includes issue tracking, merge requests, Continuous Integration, and more. Community Edition is [fully open source](https://gitlab.com/gitlab-org/gitlab-ce) and includes an API built using Grape.
 
 ### Contribute
 
