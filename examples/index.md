@@ -27,7 +27,7 @@ comments: false
 * [Accept-Version Header example](https://github.com/williamn/notes): Grape app mounted on Rails with `:accept_version_header` versioning strategy.
 * [Rails-Grape-Entity](https://github.com/philcallister/rails-grape-entity): a TODO app with grape and grape-entity.
 * [Grape w/ Rack + MongoDB](https://github.com/thiagogsr/grape-bootstrap): a bootstrap app to help you to start a Grape application without Rails
-* [Gitlab](https://github.com/gitlabhq/gitlabhq): Real world example of working grape API.
+* [GitLab](https://gitlab.com/gitlab-org/gitlab-ce): Real world example of working grape API.
 * [zup-api](https://github.com/LaFabbrica/zup-api): Large nicely structured grape app.
 * [evercam-api](https://github.com/evercam/evercam-api): Grape application that manages all communication between Evecam Media & Evercam Clients.
 
