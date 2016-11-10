@@ -57,6 +57,7 @@ comments: false
 * [wine_bouncer](https://github.com/antek-drzewiecki/wine_bouncer): Doorkeeper OAuth2 authorization middleware for grape APIs.
 * [grape-tokeeo](https://github.com/wawandco/grape-tokeeo): A simple token authentication gem for Grape.
 * [grape_token_auth](https://github.com/mcordell/grape_token_auth): Grape token auth gem for frontend JavaScript apps ([ng-token-auth](https://github.com/lynndylanhurley/ng-token-auth) compatible).
+* [grape_oauth2](https://github.com/nbulaj/grape_oauth2): Flexible, fully customizable and simple OAuth2 provider for Grape API.
 
 ### Documentation
 
