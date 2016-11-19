@@ -26,6 +26,7 @@ comments: false
 * [grape-rails-cache](https://github.com/monterail/grape-rails-cache): HTTP and server side cache integration with Rails.
 * [grape-shaman_cache](https://github.com/wjp2013/grape-shaman_cache): HTTP and server side cache integration for a non-Rails application and Jbuilder.
 * [grape-cache](https://github.com/AlexYankee/grape-cache): Another Grape middleware-style caching gem.
+* [grape-present_cache](https://github.com/u2/grape-present_cache): Grape fragment cache.
 
 ### Data
 
@@ -47,7 +48,6 @@ comments: false
 
 * [grape_logging](https://github.com/aserafin/grape_logging): Provides simple request logging capabilities (response code, path, parameters, request time, etc).
 * [grape-papertrail](https://github.com/sardaukar/grape-papertrail): [PaperTrail](https://github.com/airblade/paper_trail) integration for Grape.
-* [grape-present_cache](https://github.com/u2/grape-present_cache): Grape fragment cache.
 * [grape-middleware-logger](https://github.com/ridiculous/grape-middleware-logger): Middleware that logs the request path, endpoint name, parameters, response status, errors and duration.
 
 ### Authentication and Authorization
