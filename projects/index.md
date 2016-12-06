@@ -43,6 +43,7 @@ comments: false
 ### Routing
 
 * [grape-route-helpers](https://github.com/reprah/grape-route-helpers): Path helpers for Grape APIs, similar to Rails' named path helpers.
+* [grape-raketasks](https://github.com/reprah/grape-raketasks): Rake task to print out Grape API routes, similar to Rails' rake routes.
 
 ### Logging
 
