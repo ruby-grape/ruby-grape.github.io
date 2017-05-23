@@ -30,6 +30,7 @@ comments: false
 * [GitLab](https://gitlab.com/gitlab-org/gitlab-ce): Real world example of working grape API.
 * [zup-api](https://github.com/LaFabbrica/zup-api): Large nicely structured grape app.
 * [evercam-api](https://github.com/evercam/evercam-api): Grape application that manages all communication between Evecam Media & Evercam Clients.
+* [Grape API Bootstrap Application](https://github.com/Oliveirakun/grape-bootstrap): Basic API application with ActiveRecord, RSpec, Swagger UI and Docker.
 
 ### Contribute
 
