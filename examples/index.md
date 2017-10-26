@@ -24,6 +24,7 @@ comments: false
 * [Grape with Paperclip](https://github.com/omarfouad/rails_api_with_ajax_upload): Example of a Grape API mounted on Rails, to upload files with Paperclip & pure AJAX. Details in [this blog post](http://omarfouad.com/blog/2013/08/18/file-upload-api-with-grape-and-rails).
 * [Grape ToDo API](https://github.com/mateuszkosmider/todo-grape-api): A ToDo application.
 * [Grape w/ Rack-OAuth2](https://github.com/balauru/grape-oauth2-sample): Rack app running a Grape API and secured via OAuth2 via rack-oauth2.
+* [Grape Doorkeeper](https://github.com/sethherr/grape-doorkeeper) Rails, Doorkeeper (OAuth2 provider), Grape & Swagger
 * [Accept-Version Header example](https://github.com/williamn/notes): Grape app mounted on Rails with `:accept_version_header` versioning strategy.
 * [Rails-Grape-Entity](https://github.com/philcallister/rails-grape-entity): a TODO app with grape and grape-entity.
 * [Grape w/ Rack + MongoDB](https://github.com/thiagogsr/grape-bootstrap): a bootstrap app to help you to start a Grape application without Rails
