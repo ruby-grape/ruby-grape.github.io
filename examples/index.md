@@ -32,7 +32,7 @@ comments: false
 * [zup-api](https://github.com/LaFabbrica/zup-api): Large nicely structured grape app.
 * [evercam-api](https://github.com/evercam/evercam-api): Grape application that manages all communication between Evecam Media & Evercam Clients.
 * [Grape API Bootstrap Application](https://github.com/Oliveirakun/grape-bootstrap): Basic API application with ActiveRecord, RSpec, Swagger UI and Docker.
-* [grapethor](https://rawongithub.github.io/grapethor/): Grape REST-like API generator based on Thor
+* [grapethor](https://rawongithub.github.io/grapethor/): Grape REST-like API generator based on Thor.
 
 ### Contribute
 
