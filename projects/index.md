@@ -93,6 +93,7 @@ comments: false
 * [grape-api-generator](https://github.com/vinh0604/grape-api-generator): Some rails generators to help quickly bootstrap new Grape API structure.
 * [gris](https://github.com/artsy/gris): A framework (and generators) for building [hal+json hypermedia](http://stateless.co/hal_specification.html) API services using Rack, Grape, Roar, RSpec, and ActiveRecord.
 * [grape-starter](https://github.com/LeFnord/grape-starter) Quickly create a API skeleton using Rack, Grape, Grape Swagger and Sequel or ActiveRecord.
+* [grapethor](https://rawongithub.github.io/grapethor) Grape REST-like API application generator based on Thor.
 
 ### Opinionated Frameworks
 
