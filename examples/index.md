@@ -13,24 +13,20 @@ comments: false
 * [Grape on Goliath on Heroku with Postgres](https://github.com/djones/grape-goliath-example): An example app using Goliath and Grape running on Heroku with Postgres, using a non-blocking flavor of ActiveRecord and the non-blocking Postgres database adapter.
 * [Goliath + Grape + MongoDB, on Heroku](https://github.com/lgs/GGM): Experimenting with Goliath asyncronous ruby web server framework, Grape APIs, gitwatcher.com data on MongoLAB/MongoDB and Heroku PAAS.
 * [ConfAsk Source](https://github.com/mbleigh/conf_ask): Source for the example Grape application demonstrated in the Grapes of Rapid talk at RubyConf 2010.
-* [Example Rails implementation](http://martinciu.com/2011/01/mounting-grape-api-inside-rails-application.html): A blog post explaining how to go about building a basic API for a Rails app using 3.x or 2.3x.
-* [Another Example of Basic Rails implementation](http://www.ruby-on-rails-outsourcing.com/2011/07/22/build-a-basic-api-in-a-rails-3-application): A short but detailed blog post showing how to set up a simple Grape API in Rails 3
 * [A Sample Blogging API](https://github.com/bloudraak/grape-sample-blog-api): An API for an over-simplified blogging system that directly interacts with the database models.
 * [A Grape w/ Warden Sample](https://github.com/dblock/grape_warden): A Grape API mounted on Rack with very simple authentication using Warden.
 * [Grape on Rack w/ ActiveRecord](https://github.com/cutalion/grape-api-example): Grape API mounted on Rack, using ActiveRecord, Roar Representers, Swagger and FDoc.
 * [Grape API v1 inside API v2](https://github.com/dblock/grape-on-rack-v1-inside-v2): Evolve a Grape API v1 into API v2, explain in [this blog post](http://code.dblock.org/evolving-apis-using-grape-api-versioning).
 * [Grape with ROAR](https://github.com/ruby-grape/grape-with-roar): A demo of using Grape with Roar and some non-trivial HAL presenters.
-* [Grape with ROAR](https://github.com/CansaSCitySchuffle/grape-roar-example): Example of Grape using Roar with header versioning, API inheritance and Swagger.
-* [Grape with Paperclip](https://github.com/omarfouad/rails_api_with_ajax_upload): Example of a Grape API mounted on Rails, to upload files with Paperclip & pure AJAX. Details in [this blog post](http://omarfouad.com/blog/2013/08/18/file-upload-api-with-grape-and-rails).
+* [Grape with ROAR](https://github.com/alwinmark/grape-roar-example): Example of Grape using Roar with header versioning, API inheritance and Swagger.
+* [Grape with Paperclip](http://omarfouad.com/blog/2013/08/18/file-upload-api-with-grape-and-rails): Example of a Grape API mounted on Rails, to upload files with Paperclip & pure AJAX.
 * [Grape ToDo API](https://github.com/mateuszkosmider/todo-grape-api): A ToDo application.
 * [Grape w/ Rack-OAuth2](https://github.com/balauru/grape-oauth2-sample): Rack app running a Grape API and secured via OAuth2 via rack-oauth2.
 * [Grape Doorkeeper](https://github.com/sethherr/grape-doorkeeper): Rails, Doorkeeper (OAuth2 provider), Grape & Swagger.
 * [Accept-Version Header example](https://github.com/williamn/notes): Grape app mounted on Rails with `:accept_version_header` versioning strategy.
 * [Rails-Grape-Entity](https://github.com/philcallister/rails-grape-entity): a TODO app with grape and grape-entity.
 * [Grape w/ Rack + MongoDB](https://github.com/thiagogsr/grape-bootstrap): a bootstrap app to help you to start a Grape application without Rails
-* [GitLab](https://gitlab.com/gitlab-org/gitlab-ce): Real world example of working grape API.
-* [zup-api](https://github.com/LaFabbrica/zup-api): Large nicely structured grape app.
-* [evercam-api](https://github.com/evercam/evercam-api): Grape application that manages all communication between Evecam Media & Evercam Clients.
+* [GitLab](https://gitlab.com/gitlab-org/gitlab-foss): Real world example of working grape API.
 * [Grape API Bootstrap Application](https://github.com/Oliveirakun/grape-bootstrap): Basic API application with ActiveRecord, RSpec, Swagger UI and Docker.
 
 ### Contribute
