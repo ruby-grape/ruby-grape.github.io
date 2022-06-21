@@ -28,6 +28,7 @@ comments: false
 * [Grape w/ Rack + MongoDB](https://github.com/thiagogsr/grape-bootstrap): a bootstrap app to help you to start a Grape application without Rails
 * [GitLab](https://gitlab.com/gitlab-org/gitlab-foss): Real world example of working grape API.
 * [Grape API Bootstrap Application](https://github.com/Oliveirakun/grape-bootstrap): Basic API application with ActiveRecord, RSpec, Swagger UI and Docker.
+* [Grape API boilerplate](https://github.com/duffn/grape-api-boilerplate): A full fledged, production ready, and easy to understand API boilerplate.
 
 ### Contribute
 
