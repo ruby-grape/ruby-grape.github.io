@@ -39,6 +39,10 @@ comments: false
 * [grape-throttle](https://github.com/xevix/grape-throttle): Provides a simple endpoint-specific throttling mechanism.
 * [grape-batch](https://github.com/c4mprod/grape-batch): Rack middleware which extends Grape::API to support request batching.
 
+### Idempotency
+
+* [grape-idempotency](https://github.com/jcagarcia/grape-idempotency): Gem for supporting idempotency in your Grape APIs
+
 ### Routing
 
 * [grape-route-helpers](https://github.com/reprah/grape-route-helpers): Path helpers for Grape APIs, similar to Rails' named path helpers.
