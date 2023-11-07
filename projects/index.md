@@ -41,7 +41,7 @@ comments: false
 
 ### Idempotency
 
-* [grape-idempotency](https://github.com/jcagarcia/grape-idempotency): Gem for supporting idempotency in your Grape APIs
+* [grape-idempotency](https://github.com/jcagarcia/grape-idempotency): Gem for supporting idempotency in your Grape APIs.
 
 ### Routing
 
