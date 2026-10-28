@@ -1,0 +1,14 @@
+checked_on: '2026-10-28'
+grape:
+  current: '4.0.1'
+  previous: '3.3.5'
+  legacy: '2.4.0'
+extensions:
+  grape-entity: '1.1.0'
+  grape-rabl: '0.6.0'
+  grape-roar: '0.5.0'
+  grape-active_model_serializers: '2.0.1'
+  grape-swagger: '2.2.0'
+  grape-swagger-rails: '2.0.1'
+  grape-swagger-entity: '0.7.1'
+  grape-swagger-representable: '0.3.0'

@@ -6,48 +6,13 @@ comments: false
 ---
 ### History
 
-Grape was created by [Michael Bleigh](https://github.com/mbleigh) at [Intridea](http://www.intridea.com/) and [made its debut at RubyConf 2010 in New Orleans](http://confreaks.tv/videos/rubyconf2010-the-grapes-of-rapid). [Jerry Cheung](https://github.com/jch) had later joined development. Grape left the Intridea home on August 3rd, 2015 and became an independent project that belongs to the Ruby community. Today Grape is maintained by [Daniel Doubrovkine](https://github.com/dblock) and consists of [numerous projects](/projects), each individually maintained by a growing group that is defined by rough concensus and running code. Grape is used by many thousands of developers and numerous commercial and non-commercial applications. [Grape itself](https://github.com/ruby-grape/grape) had 6,462 stars and 726 forks on Github as of August 3rd, 2015.
+Grape was created by [Michael Bleigh](https://github.com/mbleigh) at Intridea and [made its debut at RubyConf 2010 in New Orleans](https://confreaks.tv/videos/rubyconf2010-the-grapes-of-rapid). [Jerry Cheung](https://github.com/jch) later joined development. Grape left Intridea on August 3, 2015 and became an independent project belonging to the Ruby community.
 
-### Organization Maintainers
+Today, the [ruby-grape organization](https://github.com/ruby-grape) maintains the framework and [ecosystem projects](/projects) through individual project teams, rough consensus, and running code.
 
-* [Daniel Doubrovkine, @dblock](https://github.com/dblock), CTO at [Artsy.net](https://www.artsy.net), New York, USA.
-* [Michael Bleigh, @mbleigh](https://github.com/mbleigh): CEO at [DivShot](https://www.divshot.com), Los Angeles, USA.
+### Maintainers and Contributors
 
-### Individual Project Maintainers
-
-#### [grape](https://github.com/ruby-grape/grape)
-
-* [Dmitry Dedov, @dm1try](https://github.com/dm1try): Minsk, Belarus.
-* [Adam Gotterer, @adamgotterer](https://github.com/adamgotterer): New York, USA.
-* [Vladimir Kochnev, @marshall-lee](https://github.com/marshall-lee): Saint Petersburg, Russia.
-* [Kunpei Sakai, @namusyaka](https://github.com/namusyaka): Tokyo, Japan.
-
-#### [grape-entity](https://github.com/ruby-grape/grape-entity)
-
-* [Vladimir Kochnev, @marshall-lee](https://github.com/marshall-lee): Saint Petersburg, Russia.
-* [Mark Madsen, @idyll](https://github.com/idyll): The Great White North.
-
-#### [grape-swagger](https://github.com/ruby-grape/grape-swagger)
-
-* [Tim Vandecasteele, @tim-vandecasteele](https://github.com/tim-vandecasteele): Gent, Belgium.
-* [Craig S. Cottingham, @CraigCottingham](https://github.com/CraigCottingham): Olathe, Kansas, USA.
-* [Peter Scholz, @le_fnord](https://github.com/LeFnord): Leipzig, Germany.
-* [Kirill Zaitsev, @Bugagazavr](https://github.com/Bugagazavr): Moscow, Russia.
-
-#### [grape-swagger-rails](https://github.com/ruby-grape/grape-swagger-rails)
-
-* [Alexander Logunov, @unloved](https://github.com/unloved): Cheboksary, Russia.
-* [Andrew Schuster, @aschuster3](https://github.com/aschuster3): Atlanta, Georgia, USA.
-
-#### [grape-rabl](https://github.com/ruby-grape/grape-rabl)
-
-* [Piotr Niełacny, @LTe](https://github.com/LTe): Wrocław, Poland.
-
-#### [grape-active_model_serializers](https://github.com/ruby-grape/grape-active_model_serializers)
-
-* [Jonathan Evans, @jrhe](https://github.com/jrhe): London, UK.
-* [Teng Siong Ong, @siong1987](https://github.com/siong1987): San Francisco, USA.
-* [Darren Cheng, @drn](https://github.com/drn): San Francisco, USA.
+See the [organization's public members](https://github.com/orgs/ruby-grape/people), [Grape contributors](https://github.com/ruby-grape/grape/graphs/contributors), and each project's README and contribution guide for its maintainers and collaboration process. These live resources avoid treating an old roster or employer affiliation as current.
 
 ### Participating in the Grape Community
 
