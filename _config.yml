@@ -2,10 +2,11 @@ title:
   long: Ruby Grape | An opinionated framework for creating REST-like APIs in Ruby.
   short: Ruby Grape
 locale: en_US
+url: https://www.ruby-grape.org
 sass:
   sass_dir: _sass
   style: compressed
-gems:
+plugins:
   - jekyll-sitemap
 kramdown:
   input: GFM
@@ -13,7 +14,7 @@ owner:
   name: Ruby Grape
   avatar: logo.png
   info: An opinionated framework for creating REST-like APIs in Ruby.
-  email: ruby-grape@googlegroups.com
+  support: https://github.com/ruby-grape/grape/issues
   disqus-shortname:
   twitter: grapeframework
   facebook:

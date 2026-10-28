@@ -1,7 +1,7 @@
 Contributing
 ============
 
-The https://www.ruby-grape.org site is work of [many contributors](https://github.com/ruby-grape/ruby-grape.github.io/graphs/contributors). You're encouraged to submit [pull requests](https://github.com/ruby-grape/ruby-grape.github.io/pulls) and [propose topics](https://github.com/ruby-grape/ruby-grape.github.io/issues). When in doubt, ask a question in the [Grape Google Group](http://groups.google.com/group/ruby-grape).
+The https://www.ruby-grape.org site is work of [many contributors](https://github.com/ruby-grape/ruby-grape.github.io/graphs/contributors). You're encouraged to submit [pull requests](https://github.com/ruby-grape/ruby-grape.github.io/pulls) and [propose topics](https://github.com/ruby-grape/ruby-grape.github.io/issues). Ask Grape usage questions in the [Grape issue tracker](https://github.com/ruby-grape/grape/issues); website issues belong in this repository.
 
 #### Fork the Project
 
@@ -25,10 +25,11 @@ git checkout -b my-feature-branch
 
 #### Bundle Install and Run Jekyll
 
-Ensure that you can build the project and run tests.
+Use Ruby 3.3 or newer and the committed GitHub Pages-compatible bundle. Ensure that the production site builds before submitting a pull request.
 
 ```
 bundle install
+JEKYLL_ENV=production bundle exec jekyll build --strict_front_matter
 bundle exec jekyll serve
 ```
 
@@ -37,6 +38,14 @@ Navigate to http://localhost:4000.
 #### Add Content
 
 Create markdown content.
+
+#### Maintain Releases and Project Listings
+
+Update versions and the verification date in `_data/releases.yml` using [RubyGems](https://rubygems.org/gems/grape/versions). Confirm that each versioned README or upgrade-guide tag exists. The default branch may describe an unreleased version; do not advertise that as a published release. Keep current, previous, and legacy release lines distinct without implying identical support policies.
+
+List only non-archived projects with recent substantive maintenance. Inspect default-branch commits, compatibility work, releases, and runnable setup instructions rather than relying on repository metadata timestamps or an isolated automated workflow bump. Apply the same standard to third-party integrations and examples, retain canonical repository links, and let each project define its own supported versions.
+
+Keep historical talks and tutorials clearly labeled rather than presenting them as current setup guidance. Preserve existing page paths and the `CNAME` custom domain. Keep Markdown paragraphs on one line.
 
 #### Commit Changes
 
@@ -71,15 +80,10 @@ If you've been working on a change for a while, rebase with upstream/master.
 ```
 git fetch upstream
 git rebase upstream/master
-git push origin my-feature-branch -f
+git push --force-with-lease origin my-feature-branch
 ```
 
-Amend your previous commit and force push the changes.
-
-```
-git commit --amend
-git push origin my-feature-branch -f
-```
+Keep the pull request focused and never force-push the default branch.
 
 #### Be Patient
 
