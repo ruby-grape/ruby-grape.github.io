@@ -277,13 +277,8 @@ $button-size: 1.5rem;
 	@media #{$x-large} {
 		@include grid(12,4.5);
 	}
-	a {
-		@include font-rem(28);
-    font-family: $heading-font;
-    font-weight: bold;
-		&.next {
-			margin-top: 30px;
-		}
+	a.next {
+		margin-top: 30px;
 	}
   p {
     @include font-rem(14);
